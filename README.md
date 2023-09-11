@@ -3,7 +3,7 @@
 ### Hello Dev✌, I’m Anusha Tiwari
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant285&label=Profile%20views&color=0e75b6&style=flat" alt="Vedant285" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annu050&label=Profile%20views&color=0e75b6&style=flat" alt="annu050" /> </p>
 
 
 
@@ -21,43 +21,38 @@
 ![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-fff?style=for-the-badge&logo=gnubash&logoColor=black)
-![nginx](https://img.shields.io/badge/-nginx-green?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 
 ### 🔰 Tools
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
+
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-fff?style=for-the-badge&logo=gnubash&logoColor=black)
-![nginx](https://img.shields.io/badge/-nginx-green?style=for-the-badge&logo=nginx&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### ✍ My Contributions
-![Vedant285](https://github-readme-activity-graph.cyclic.app/graph?username=Vedant285&hide_border=true&theme=react-dark)
+![annu050](https://github-readme-activity-graph.cyclic.app/graph?username=annu050&hide_border=true&theme=react-dark)
 
 ### 📝 Stats Overview
 <div align="center">
-<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Vedant285&layout=compact&theme=tokyonight"  /><br>
-<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant285&theme=gruvbox" /><br>
-<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Vedant285&show_icons=true&include_all_commits=false&theme=radical" /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=annu050&layout=compact&theme=tokyonight"  /><br>
+<img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=annu050&theme=gruvbox" /><br>
+<img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=annu050&show_icons=true&include_all_commits=false&theme=radical" /><br>
 </div>
 
 
 <p align="center">
     <h2 align="center">Visitors Count</h2>
     <p align="center">
-      <img src="https://profile-counter.glitch.me/{Vedant285}/count.svg" alt="VisitorCount">
+      <img src="https://profile-counter.glitch.me/{annu050}/count.svg" alt="VisitorCount">
     </p>
 </p>
 
 ### 🔗 Connect with me
 
 <div align="center">
- 
 
-[![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ho_rus__)
 
 </div>
