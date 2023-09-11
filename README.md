@@ -32,9 +32,6 @@
 ![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### ✍ My Contributions
-![annu050](https://github-readme-activity-graph.cyclic.app/graph?username=annu050&hide_border=true&theme=react-dark)
-
 ### 📝 Stats Overview
 <div align="center">
 <img   src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=annu050&layout=compact&theme=tokyonight"  /><br>
