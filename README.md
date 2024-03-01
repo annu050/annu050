@@ -39,9 +39,13 @@
 <img width='450'  src="https://github-readme-streak-stats.herokuapp.com/?user=annu050&theme=gruvbox" /><br>
 <img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=annu050&show_icons=true&include_all_commits=false&theme=radical" /><br>
 </div>
-![](https://raw.githubusercontent.com/annu050/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
+<a href="https://github.com/jstrieb/github-stats">
+ 
+![](https://raw.githubusercontent.com/annu050/readme_stats/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/annu050/readme_stats/output/generated/languages.svg)
 
+</a>
 <p align="center">
     <h2 align="center">Visitors Count</h2>
     <p align="center">
