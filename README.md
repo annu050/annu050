@@ -40,12 +40,7 @@
 <img   src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=annu050&show_icons=true&include_all_commits=false&theme=radical" /><br>
 </div>
 
-<a href="https://github.com/jstrieb/github-stats">
- 
-![](https://raw.githubusercontent.com/annu050/readme_stats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/annu050/readme_stats/output/generated/languages.svg)
 
-</a>
 <p align="center">
     <h2 align="center">Visitors Count</h2>
     <p align="center">
