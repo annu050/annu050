@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Anusha+Tiwari+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Anusha Tiwari Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Anusha+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Anusha Tiwari Welcome to my Profile! animated typed out">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annu050&label=Profile%20views&color=0e75b6&style=flat" alt="annu050" /> </p>
